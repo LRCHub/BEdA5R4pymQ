@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ウエディング",
+  "base_artist": "音田 雅則",
+  "createdAt": "2025-12-20T05:51:45.705415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "Sugar",
+      "has_synced": true,
+      "path": "select/01_ウエディング・ベル_Sugar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "上原れな",
+      "has_synced": true,
+      "path": "select/02_ウエディング・ベル_上原れな.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "Sugar",
+      "has_synced": true,
+      "path": "select/03_ウエディング・ベル_Sugar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "Sugar",
+      "has_synced": true,
+      "path": "select/04_ウエディング・ベル_Sugar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "シュガー",
+      "has_synced": false,
+      "path": "select/05_ウエディング・ベル_シュガー.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/06_ウエディング・ベル_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ウエディング",
+      "artist": "音田 雅則",
+      "has_synced": true,
+      "path": "select/07_ウエディング_音田_雅則.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ウエディング (Piano & Strings Ver.)",
+      "artist": "音田 雅則",
+      "has_synced": true,
+      "path": "select/08_ウエディング_(Piano_&_Strings_Ver.)_音田_雅則.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウエディング",
+      "artist": "音田 雅則",
+      "has_synced": false,
+      "path": "select/pl_01_ウエディング_音田_雅則.txt"
+    }
+  ]
+}
